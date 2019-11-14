@@ -1,2 +1,5 @@
-# revertigo
-Tool for Automated PsExec Spraying
+# Revertigo
+##### Tool for Automated PsExec Spraying using metasploit
+
+
+
